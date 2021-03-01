@@ -2,6 +2,7 @@
 Implementing a blockchain from scratch. 
 Only private and public keys for authentication are made using PyCrypto, everything else is standard Python.
 
+
 **Unfinished**
 
 _Test.py is unfinished_
