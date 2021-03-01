@@ -4,5 +4,6 @@ Only private and public keys for authentication are made using PyCrypto, everyth
 
 **Unfinished**
 
-_Test.py is unfinished
-There is a plan for a UI as well using Flask_
+_Test.py is unfinished_
+
+_There is a plan for a UI as well using Flask_
